@@ -1,0 +1,58 @@
+body{
+    background-color: black;
+    color: white;
+    border: purple solid;
+    border-style: dashed;
+    padding: 10px 20px;
+}
+
+.divh1{
+    text-align: center;
+    border: solid purple;
+    border-style: dashed;
+    margin-bottom: -20px;
+    margin-left: 60%;
+    position: fixed;
+    padding-right: 10px;
+    padding-left: 20px;
+    margin-bottom: 0px;
+      
+}
+
+#space{
+    border: white;
+    margin-right: 37%;
+    text-align: left;
+}
+
+
+#address{
+    border: 1px solid yellow;
+    text-align: center;
+    border-style: dashed;
+    margin: 20px 30px;
+}
+
+#img{
+    border: 5px solid;
+    border-color: yellow;
+    border-style: dashed;
+    
+}
+h1{
+    text-transform: capitalize;
+    font-family:'Times New Roman', Times, serif ;
+    text-align: center;
+    
+}
+h2,h3{
+    color: yellow;
+}
+
+ol.interets{
+    border-left: dashed white;
+}
+div h4{
+    border: solid yellow;
+    margin-right: 70%;
+}
